@@ -1,0 +1,33 @@
+/* src/components/Header.css */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(to right, #1a1a1a, #000000);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  color: #eee;
+}
+
+
+.header-nav {
+  align-items:left;
+  display: flex;
+  gap: 2rem; /* Space between links */
+}
+
+.header-nav a {
+  color: #eee;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.header-nav a:hover {
+  color: #89cff0; /* Highlight color on hover */
+}

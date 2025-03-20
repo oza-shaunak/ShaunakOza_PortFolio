@@ -1,0 +1,11 @@
+[
+    { "name": "JavaScript", "level": "Advanced" },
+    { "name": "React", "level": "Advanced" },
+    { "name": "Node.js", "level": "Intermediate" },
+    {"name":"C++","level":"Expert"},
+    {"name":"Java","level":"Intermediate"},
+    {"name":"Docker","level":"Intermediate"},
+    {"name":"Kubernetes","level":"Intermediate"},
+    {"name":"SQL","level":"Intermediate"},
+    {"name":"C#","level":"Basics"}
+  ]

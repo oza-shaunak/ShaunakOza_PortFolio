@@ -1,0 +1,23 @@
+[
+  {
+      "title": "Smart Modeler ",
+      "description": "NLP powered Sysmlv2 modeling tool",
+      "imageUrl": "/images/sysmlv2.png",
+      "link": "https://example.com/ecommerce",
+      "techStack": ["Javascript","NodeJs","NLP", "AzureAI", "Neo4j"]
+  },
+  {
+      "title": "CarbonWise",
+      "description": "CarbonWise – Smart carbon tracking for a sustainable future",
+      "imageUrl": "/images/cfc.png",
+      "link": "https://example.com/taskmanager",
+      "techStack": ["React", "Redux", "Firebase"]
+  },
+  {
+      "title": "Portfolio Website",
+      "description": "My own portfolio website, built with React.",
+      "imageUrl": "/images/personal.png",
+      "link": "https://example.com/myportfolio",
+      "techStack": ["React", "Tailwind CSS", "Framer Motion"]
+  }
+]
