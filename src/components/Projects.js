@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import projectsData from "../data/projects.json";
 import "../css/Projects.css";
-import { color } from "framer-motion";
 import "../App.css";
 const Projects = ({ id }) => {
   const [flippedIndex, setFlippedIndex] = useState(null);
