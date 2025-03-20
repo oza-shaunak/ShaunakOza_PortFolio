@@ -1,5 +1,4 @@
 import React from "react";
-import { FaEnvelope, FaLinkedin, FaGithub, FaPhone } from "react-icons/fa"; 
 import emailjs from "emailjs-com"
 import "../css/Contact.css"; 
 import {useState} from "react";
